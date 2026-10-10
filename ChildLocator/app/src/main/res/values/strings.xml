@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChildLocator</string>
+    <string name="title">ChildLocator</string>
+    <string name="message">Step 0 OK: build test. Is app mein abhi koi feature nahi hai.</string>
+</resources>
